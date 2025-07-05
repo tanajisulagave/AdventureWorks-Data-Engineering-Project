@@ -12,7 +12,7 @@
     {
         "p_rel_url": "tanajisulagave/AdventureWorks-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Customers.csv",
         "p_sink_folder" : "AdventureWorks_Customers",
-        "p_sink_file" : "rAdventureWorks_Customers.csv"
+        "p_sink_file" : "AdventureWorks_Customers.csv"
     },
     {
         "p_rel_url": "tanajisulagave/AdventureWorks-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
