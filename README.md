@@ -37,4 +37,6 @@ Goal: - We can fetch the data from silver containers and load into server less S
 •	It needs connection you can pass database connection when we have created synapse analytics, we have provided user and password you can pass here otherwise you can access though Microsoft account. 
 •	Once you provide a connection you can check the external tables and load the data into Power BI for generating the power Bi report.
 
+
+
 ![image](https://github.com/user-attachments/assets/efb3a226-41e1-4455-a51f-3443a99c225f)
